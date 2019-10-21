@@ -1,0 +1,28 @@
+Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications
+
+
+Introduction：
+    require multiple agents to communicate and cooperate to solve complex tasks
+    multi-agent training schemes
+    multi-agent transfer learning
+    trial and error (TE) procedure
+    the mechanism of temporal-difffference (TD) learning 
+    brought the theory of optimal control including Bellman equation and Markov decision process together with temporal-difffference learning to form
+a well-known Q-learning
+    
+
+RL：
+
+
+RL Methods：
+
+
+Deep RL：For single
+
+
+
+Deep RL：For Multi-Agent
+
+
+
+Conclusion：
